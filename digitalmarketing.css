@@ -60,3 +60,10 @@ body{
     text-decoration: none;
 }
 
+.section2 a{
+    text-decoration: none;
+    color: blue;
+}
+.section2 a:hover{
+    color: orange;
+}
